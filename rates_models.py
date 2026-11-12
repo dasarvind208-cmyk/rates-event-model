@@ -1,8 +1,6 @@
 """
 Rates Models v2: event pricing (10Y focused), recession odds, curve backtest
 ===========================================================================
-Run in Google Colab next to yield_curve_dashboard.py. Market data is pulled
-from FRED automatically (free, no API key).
 
 PART 1  Event model
         Before a release (CPI, jobs, PCE) you enter consensus and your odds of
