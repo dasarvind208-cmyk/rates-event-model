@@ -4,7 +4,6 @@ Yield Curve Dashboard
 Pulls daily US Treasury yields from FRED (free, no API key needed),
 then makes three charts and prints a quick market summary.
 
-Run it in Google Colab (easiest) or any Python setup with pandas + matplotlib.
 """
 
 import pandas as pd
