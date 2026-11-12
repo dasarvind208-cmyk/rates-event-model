@@ -1,7 +1,6 @@
 """
 Rates Pro Forma: 3-year projection of the yield curve
 =====================================================
-Paste this in its own Colab cell (cell 3) and run it.
 
 How the projection works (a building-block model):
   - You set a Fed funds path for each scenario (cuts or hikes over the
